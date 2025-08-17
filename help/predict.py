@@ -27,6 +27,7 @@ deepsort = None
 
 object_counter = {}
 
+# object_counter1 = {}
 object_counter1 = {}
 
 line = [(100, 500), (1050, 500)]

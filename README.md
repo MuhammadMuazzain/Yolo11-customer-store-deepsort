@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 ### Prerequisites
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/customer-time-tracking.git
+    git clone https://github.com/MuhammadMuazzain/customer-time-tracking.git
     cd customer-time-tracking
     ```
 
