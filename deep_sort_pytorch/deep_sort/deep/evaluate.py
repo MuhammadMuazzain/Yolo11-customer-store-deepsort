@@ -3,6 +3,9 @@ import torch
 features = torch.load("features.pth")
 qf = features["qf"]
 ql = features["ql"]
+# gf = features["gf"]
+# gl = features["gl"]
+
 gf = features["gf"]
 gl = features["gl"]
 
